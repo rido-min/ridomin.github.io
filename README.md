@@ -1,4 +1,6 @@
 ridomin.github.io
 =================
 
-rido learning pages
+Rido repository published here http://ridomin.github.io
+
+
