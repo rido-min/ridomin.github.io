@@ -11,9 +11,9 @@ A couple of years ago I started to dig into Git, but just to know about how it w
 Some places where I found Git
 -----------------------------
 
-*Visual Studio
-*Azure Web Site
-*SublimeText
-*Cloud9
+* Visual Studio
+* Azure Web Site
+* SublimeText
+* Cloud9
 
 

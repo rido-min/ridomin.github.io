@@ -5,7 +5,8 @@ subtitle: lets try some code fragments to see how jekyll renders it
 header-img: img/cascade2.jpg
 ---
 
-*** Formatting Code
+Formatting Code
+---------------
 
 This is C# code
 
