@@ -12,9 +12,9 @@ to start my own.
 
 This does not aspire to become a blog, just a place to play with these technologies, and there are a lot, just to name a few:
 
-*NPM
-*Grunt
-*Ruby
-*Less
+* NPM
+* Grunt
+* Ruby
+* Less
 
 
