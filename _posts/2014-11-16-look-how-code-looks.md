@@ -10,6 +10,10 @@ Formatting Code
 
 This is C# code
 
+Code that is not highlited like a path
+
+```c:\thisis a path```
+
 {% highlight c# %}
 /// <summary>
 /// Initializes the singleton application object.  This is the first line of authored code
